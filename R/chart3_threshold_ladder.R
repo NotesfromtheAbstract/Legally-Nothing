@@ -2,7 +2,7 @@
 # Chart 3: The Threshold Ladder
 # Where 12.5 Million Americans Fall Between Two Standards
 #
-# Notes from the Abstract — "Legally Nothing"
+# Notes from the Abstracts — "Legally Nothing"
 # Copyright (c) 2026 Andrew R. Crocker
 # Data sources:
 #   Texas HHSC CODTW (55 dB threshold)

@@ -2,7 +2,7 @@
 # Chart 1: The SGA Divergence
 # Blind vs. Non-Blind Substantial Gainful Activity Limits, 1978-2026
 #
-# Notes from the Abstract — "Legally Nothing"
+# Notes from the Abstracts — "Legally Nothing"
 # Copyright (c) 2026 Andrew R. Crocker
 # Data source: Social Security Administration, COLA Determinations
 # https://www.ssa.gov/oact/cola/sga.html
