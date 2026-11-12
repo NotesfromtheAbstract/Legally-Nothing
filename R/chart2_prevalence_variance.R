@@ -2,7 +2,7 @@
 # Chart 2: The Prevalence Variance
 # Same Question, Three Cutoffs, Three Populations
 #
-# Notes from the Abstract — "Legally Nothing"
+# Notes from the Abstracts — "Legally Nothing"
 # Copyright (c) 2026 Andrew R. Crocker
 # Data sources:
 #   Lin FR, Niparko JK, Ferrucci L. Arch Intern Med. 2011;171(20):1851-1852.

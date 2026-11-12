@@ -1,6 +1,6 @@
 # Legally Nothing — Data and Charts
 
-Charts and data for ["Legally Nothing"](https://notes-from-the-abstract.ghost.io/) published in *Notes from the Abstract*.
+Charts and data for ["Legally Nothing"](https://notes-from-the-abstract.ghost.io/) published in *Notes from the Abstracts*.
 
 ## Charts
 
